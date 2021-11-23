@@ -1,0 +1,1 @@
+materi : https://www.geeksforgeeks.org/taking-string-input-space-c-3-different-methods/
